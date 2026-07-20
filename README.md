@@ -1,19 +1,41 @@
-<h1 align="center">Hi 👋, I'm Chinmoy Mondal</h1>
-<h3 align="center">Data Science Explorer | Machine Learning & AI Enthusiast</h3>
+<!-- ================= Banner ================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chinmoy-mondal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/chinmoy-mondal/chinmoy-mondal/main/assets/banner.png" alt="Banner" width="100%">
+</p>
+
+<h1 align="center">Hi 👋, I'm Chinmoy Mondal</h1>
+
+<h3 align="center">
+Data Science Explorer • Machine Learning Enthusiast • AI Learner
+</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/chinmoy-mondal-ice/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://notes.com.bd">
+<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@Chinmoy-h6x">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=chinmoy-mondal&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm **Chinmoy Mondal**, a passionate **Data Science** enthusiast with a strong interest in **Machine Learning**, **Deep Learning**, and **Artificial Intelligence**.
+I'm **Chinmoy Mondal**, a passionate **Data Science** enthusiast who enjoys building intelligent systems using **Machine Learning**, **Deep Learning**, and **Artificial Intelligence**.
 
-I enjoy transforming data into actionable insights and building intelligent systems that solve real-world problems.
-
-My technical background also includes:
+I also have experience in
 
 - 📊 Data Science
 - 🤖 Machine Learning
@@ -21,109 +43,103 @@ My technical background also includes:
 - 👁 Computer Vision
 - 📱 Android Development (Java)
 - 🌐 Web Development (PHP, CodeIgniter)
-- 🌍 Internet of Things (IoT)
+- 🌍 IoT
 - ⚡ VLSI
 
-Currently, I'm focused on strengthening my expertise in AI and contributing to open-source projects.
+I love solving real-world problems with data and continuously learning new technologies.
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Deep Learning
-- Convolutional Neural Networks (CNN)
-- TensorFlow & Keras
+- CNN
+- TensorFlow
+- Keras
 - Computer Vision
-- Data Analysis
-- MLOps
 - Data Engineering
+- MLOps
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### Languages
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</p>
-
-### Data Science & AI
+## Programming Languages
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-<img src="https://matplotlib.org/_static/images/logo2.svg" width="45"/>
-<img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black.png" width="45"/>
-</p>
 
-### Development
+<img src="https://skillicons.dev/icons?i=python" />
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="45"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java" />
 
----
+<img src="https://skillicons.dev/icons?i=php" />
 
-## 📂 Featured Projects
-
-### 🗳 Election Coordination
-
-Secure Android application for managing election-related activities, communication, and real-time coordination.
-
-### 🏥 Clinic Management System
-
-A complete Android application for managing patients, appointments, doctors, and reports.
-
-### 📊 Student Performance Prediction
-
-Machine Learning project that predicts student performance using classification algorithms.
-
-### 🧠 Brain Tumor Detection
-
-Deep Learning project using CNN for brain tumor classification from MRI images.
-
-### 📱 Age Calculator
-
-Android application with age history, sharing, and modern Material UI.
-
----
-
-## 📫 Connect With Me
-
-<p>
-<a href="https://www.linkedin.com/in/chinmoy-mondal-ice/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://notes.com.bd/" target="_blank">
-<img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@Chinmoy-h6x" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## Data Science & AI
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
+
+<img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black.png" width="48"/>
+
+</p>
+
+---
+
+## Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=androidstudio" />
+
+<img src="https://skillicons.dev/icons?i=git" />
+
+<img src="https://skillicons.dev/icons?i=github" />
+
+<img src="https://skillicons.dev/icons?i=vscode" />
+
+<img src="https://skillicons.dev/icons?i=codeigniter" />
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🗳 Election Coordination | Secure Android application for election management |
+| 🏥 Clinic Management System | Android app for clinic management |
+| 📱 Age Calculator | Material Design Android application |
+| 📊 Student Performance Prediction | Machine Learning prediction model |
+| 🧠 Brain Tumor Detection | CNN-based Deep Learning project |
+| 🌐 School Management Website | CodeIgniter 4 based web application |
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chinmoy-mondal&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chinmoy-mondal&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmoy-mondal&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmoy-mondal&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmoy-mondal&theme=tokyonight"/>
 
@@ -135,17 +151,37 @@ Android application with age history, sharing, and modern Material UI.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=chinmoy-mondal&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=chinmoy-mondal&theme=tokyonight&margin-w=15&margin-h=15"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmoy-mondal&theme=tokyo-night&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmoy-mondal&theme=tokyo-night&area=true&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chinmoy-mondal-ice/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://notes.com.bd">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </p>
 
@@ -153,8 +189,8 @@ Android application with age history, sharing, and modern Material UI.
 
 <p align="center">
 
-### 💡 Quote
+## 💡 Quote
 
-*"Turning data into intelligent solutions through AI and Machine Learning."*
+### *"Turning data into intelligent solutions through AI and Machine Learning."*
 
 </p>
